@@ -7,6 +7,46 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 596,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 5906,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/spec_helper.rb",
+			"settings":
+			{
+				"buffer_size": 1675,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Guardfile",
+			"settings":
+			{
+				"buffer_size": 2268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -32,6 +72,8 @@
 	},
 	"file_history":
 	[
+		"/home/james/ws/rails_projects/sample_app/sample_app.sublime-project",
+		"/home/james/ws/rails_projects/sample_app/Gemfile",
 		"/home/james/ws/rails_projects/first_app/Gemfile",
 		"/home/james/.gemrc",
 		"/home/james/ws/rails_projects/demo_app/Gemfile",
@@ -72,8 +114,149 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/index.html",
+					"settings":
+					{
+						"buffer_size": 5906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "spec/spec_helper.rb",
+					"settings":
+					{
+						"buffer_size": 1675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1170,
+								1170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Guardfile",
+					"settings":
+					{
+						"buffer_size": 2268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "config/database.yml",
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -133,6 +316,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 206.0,
 	"status_bar_visible": true
 }
